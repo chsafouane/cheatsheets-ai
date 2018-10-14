@@ -1,7 +1,7 @@
 # cheatsheets-ai
 
 Essential Cheat Sheets for deep learning and machine learning researchers
-    
+    SC
   - [**Tensorflow**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Tensorflow.pdf)<br>
   - [**Keras**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Keras.jpg)<br>
   - [**Neural Networks Zoo**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Neural%20Networks%20Zoo.png)<br>
